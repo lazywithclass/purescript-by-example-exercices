@@ -12,10 +12,16 @@ $ make install
 ## Project setup
 
 ```sh
-mkdir /path/to/your-purescript-project
-cd /path/to/your-purescript-project
-grunt-init purescript
+$ mkdir /path/to/your-purescript-project
+$ cd /path/to/your-purescript-project
+$ grunt-init purescript
 
-npm install
-bower update
+$ npm install
+$ bower update
+```
+
+## Building 
+
+```sh
+$ grunt
 ```
