@@ -1,7 +1,7 @@
 purescript-by-example-exercices
 ===============================
 
-Exercices from the "Purescript by example" book https://leanpub.com/purescript/read
+Starter project for PureScript following https://leanpub.com/purescript/read
 
 ## Install
 
