@@ -9,8 +9,8 @@ Starter project for PureScript following https://leanpub.com/purescript/read
 
 * Ubuntu Linux
 * nodejs
-* ~/bin in `$PATH`
-* ~/.cabal/bin in `PATH`
+* `~/bin` in `$PATH`
+* `~/.cabal/bin` in `PATH`
 
 ```sh
 $ make install
