@@ -5,6 +5,12 @@ Exercices from the "Purescript by example" book https://leanpub.com/purescript/r
 
 ## Install
 
+### Prerequisites
+
+* Ubuntu Linux
+* nodejs
+* ~/bin in `$PATH`
+
 ```sh
 $ make install
 ```
