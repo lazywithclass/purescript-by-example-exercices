@@ -10,6 +10,7 @@ Exercices from the "Purescript by example" book https://leanpub.com/purescript/r
 * Ubuntu Linux
 * nodejs
 * ~/bin in `$PATH`
+* ~/.cabal/bin in `PATH`
 
 ```sh
 $ make install
