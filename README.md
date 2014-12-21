@@ -1,4 +1,4 @@
-purescript-by-example-exercices
+purescript-starter-project
 ===============================
 
 Starter project for PureScript following https://leanpub.com/purescript/read
