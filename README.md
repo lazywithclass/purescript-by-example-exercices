@@ -21,7 +21,8 @@ $ make install
 ```sh
 $ mkdir /path/to/your-purescript-project
 $ cd /path/to/your-purescript-project
-$ grunt-init purescript
+# the following will override this README.md
+$ grunt-init purescript --force 
 
 $ npm install
 $ bower update
