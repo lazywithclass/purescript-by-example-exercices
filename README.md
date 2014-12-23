@@ -21,7 +21,7 @@ $ make install
 ```sh
 $ mkdir /path/to/your-purescript-project
 $ cd /path/to/your-purescript-project
-# the following will override this README.md
+# the following will overwrite this README.md
 $ grunt-init purescript --force 
 
 $ npm install
