@@ -22,10 +22,7 @@ $ make install
 $ mkdir /path/to/your-purescript-project
 $ cd /path/to/your-purescript-project
 # the following will overwrite this README.md
-$ grunt-init purescript --force 
-
-$ npm install
-$ bower update
+$ make setup
 ```
 
 ## Building 
